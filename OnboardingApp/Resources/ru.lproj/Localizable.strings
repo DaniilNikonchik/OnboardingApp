@@ -1,0 +1,32 @@
+//
+//  Localizable.strings
+//  OnboardingApp
+//
+//  Created by Daniil Nikonchik on 24.03.26.
+//
+
+// MARK: - Main Screen
+
+"main.appTitle" = "OnboardingApp";
+"main.showOnboarding" = "Показать онбординг";
+"main.welcomeBack" = "Добро пожаловать обратно";
+"main.welcomeSubtitle" = "Добро пожаловать";
+"main.welcomeBackSubtitle" = "Рады видеть вас снова";
+"main.onboardingCompleted" = "Онбординг пройден";
+"main.resetOnboarding" = "Сбросить онбординг";
+"main.darkTheme" = "Тёмная тема";
+"main.lightTheme" = "Светлая тема";
+
+// MARK: - Onboarding
+
+"onboarding.next" = "Далее";
+"onboarding.start" = "Начать работу";
+
+// MARK: - Pages
+
+"pages.welcome.title" = "Добро пожаловать!";
+"pages.welcome.description" = "Мы рады видеть вас в нашем приложении. Здесь вы найдёте всё необходимое для комфортной работы.";
+"pages.notifications.title" = "Уведомления";
+"pages.notifications.description" = "Получайте мгновенные уведомления о важных событиях и никогда не пропускайте обновления.";
+"pages.security.title" = "Безопасность";
+"pages.security.description" = "Ваши данные надёжно защищены. Мы используем современные технологии шифрования.";
